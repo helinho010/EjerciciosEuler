@@ -1,0 +1,14 @@
+console.time();
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.log("Hola como estas amigo");
+console.timeEnd();
