@@ -1,9 +1,10 @@
+"use strict";
 console.time();
-var numInicialFibo = 0;
-var numsiguienteFibo = 1;
-var numSerieFibo = 0;
-var controlNumSerieFibo = true;
-var sumaParesFibo = 0;
+let numInicialFibo = 0;
+let numsiguienteFibo = 1;
+let numSerieFibo = 0;
+let controlNumSerieFibo = true;
+let sumaParesFibo = 0;
 while (controlNumSerieFibo == true) {
     numSerieFibo = numInicialFibo + numsiguienteFibo;
     // Condicion para que el numero de la serie fibonacci no exceda la cantidad permitida. 

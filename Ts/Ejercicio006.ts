@@ -11,7 +11,7 @@ function sumaCuadrados(limiteInferior: number, limiteSuperior:number): number
     return suma;
 }
 
-function cuadradoSuma(limiteInferior:number, limiteSuperior):number
+function cuadradoSuma(limiteInferior:number, limiteSuperior:number):number
 {
     let suma: number = 0
     while (limiteInferior <= limiteSuperior) {
