@@ -1,0 +1,2 @@
+la suma de los primos menores de 2000000 es: 142913828922
+Inicio: 02:16:17 - final: 05:33:42

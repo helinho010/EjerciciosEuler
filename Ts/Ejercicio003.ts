@@ -1,6 +1,6 @@
 // Funcion para saber si un numero es primo o no
 
-function esPrimo( numero:number):boolean
+export function esPrimo( numero:number):boolean
 {
     const maxDivisor:number = Math.floor(Math.sqrt(numero));
     let valorSiNoPrimo: boolean = false;
@@ -42,7 +42,7 @@ function calcularMayorPrimoDivisor( numero:number):void
     }
 }
 
-console.time();
+/*console.time();
 calcularMayorPrimoDivisor(10);
 console.timeEnd();
 console.time();
@@ -53,7 +53,6 @@ calcularMayorPrimoDivisor(53195);
 console.timeEnd();
 console.time();
 calcularMayorPrimoDivisor(600851475143);
-console.timeEnd();
-
+console.timeEnd();*/
 
 
